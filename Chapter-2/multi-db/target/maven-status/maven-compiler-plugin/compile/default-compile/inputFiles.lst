@@ -1,9 +1,0 @@
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/DemoApplication.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/student/controller/StudentController.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/student/entity/Student.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/student/repository/IStudentRepository.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/student/service/StudentService.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/teacher/controller/TeacherController.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/teacher/entity/Teacher.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/teacher/repository/ITeacherRepository.java
-/home/me/books/designing-data-intensive-applications/Chapter-2/multi-db/src/main/java/com/db/teacher/service/TeacherService.java
